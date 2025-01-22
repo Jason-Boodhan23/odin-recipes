@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+  }
+  
+  .title {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 18px;
+  }
+
+  .links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+  }
+
+  html, body {
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 150px; 
+  }
+  
+  body {
+    text-align: center; /* Optional: Centers text inside elements */
+  }
+  
